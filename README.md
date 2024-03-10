@@ -15,6 +15,6 @@
     client_id: "sb-poc-client-credential"
     client_secret: "<<YOUR_SECRET_GOES_HERE>>" 
 ``` 
-* Retrieve the access token received in above API call response nad send it as "Bearer" token  
+* Retrieve the access token received in above API call response and send it as "Bearer" token  
 * Refer requests ***"1) GET Token -- Admin (Client Credentials Fow)
 "*** , ***"APP_2_READ_API"*** and ***"APP_2_WRITE_API"*** in POSTMAN collection ***"spring-boot-3-poc-secure.postman_collection.json"*** 
